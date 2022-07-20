@@ -1,4 +1,4 @@
-# Next.js Boilerplate
+# TileLog
 
 ## 기술 스택
 
